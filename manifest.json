@@ -1,8 +1,8 @@
 {
   "web": {
-    "version": "1.1.0",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.1.0/web-1.1.0.zip",
-    "notes": "Prima versione con aggiornamenti automatici"
+    "version": "1.1.1",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.1.1/web-1.1.1.zip",
+    "notes": "La lingua di vantaggio si può scrivere anche in italiano (Italiano)"
   },
   "android": {
     "build": 2,
