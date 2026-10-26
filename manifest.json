@@ -1,0 +1,18 @@
+{
+  "web": {
+    "version": "1.1.0",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.1.0/web-1.1.0.zip",
+    "notes": "Prima versione con aggiornamenti automatici"
+  },
+  "android": {
+    "build": 2,
+    "version": "1.1.0",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.1.0/JobPilot.apk",
+    "notes": "Prima versione con aggiornamenti automatici"
+  },
+  "windows": {
+    "version": "1.1.0",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.1.0/JobPilot%20Setup%201.1.0.exe",
+    "notes": "Prima versione con aggiornamenti automatici"
+  }
+}
