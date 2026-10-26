@@ -1,19 +1,25 @@
 {
   "web": {
-    "version": "1.1.2",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.1.2/web-1.1.2.zip",
-    "checksum": "88dfd7d69d62e99f21a2fea5741b5e92bcffe2394430644e18f86b43197acfa7",
-    "notes": "Corretto lo scaricamento degli aggiornamenti su Android"
+    "version": "1.2.0",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.2.0/web-1.2.0.zip",
+    "checksum": "7b4f79fa4d414093b1e05e614092a1ed5c3ac257343505b042fbbf23f141986c",
+    "notes": "Aggiornamenti firmati e verificati; app Android in versione definitiva"
   },
   "android": {
-    "build": 2,
-    "version": "1.1.0",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.1.0/JobPilot.apk",
-    "notes": "Prima versione con aggiornamenti automatici"
+    "build": 3,
+    "version": "1.2.0",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.2.0/JobPilot.apk",
+    "checksum": "0c661a631272843e993890000685416ada65605e7e164d2c97ba4efd71d013fe",
+    "notes": "Aggiornamenti firmati e verificati; app Android in versione definitiva"
   },
   "windows": {
-    "version": "1.1.0",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.1.0/JobPilot.Setup.1.1.0.exe",
-    "notes": "Prima versione con aggiornamenti automatici"
+    "version": "1.2.0",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.2.0/JobPilot-Setup-1.2.0.exe",
+    "checksum": "d12be041e3db336bcf82a7715da577dcae81264ecf74c624e2ee2da306807a38",
+    "notes": "Aggiornamenti firmati e verificati; app Android in versione definitiva"
+  },
+  "signed": {
+    "payload": "{\"web\":{\"version\":\"1.2.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.2.0/web-1.2.0.zip\",\"checksum\":\"7b4f79fa4d414093b1e05e614092a1ed5c3ac257343505b042fbbf23f141986c\",\"notes\":\"Aggiornamenti firmati e verificati; app Android in versione definitiva\"},\"android\":{\"build\":3,\"version\":\"1.2.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.2.0/JobPilot.apk\",\"checksum\":\"0c661a631272843e993890000685416ada65605e7e164d2c97ba4efd71d013fe\",\"notes\":\"Aggiornamenti firmati e verificati; app Android in versione definitiva\"},\"windows\":{\"version\":\"1.2.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.2.0/JobPilot-Setup-1.2.0.exe\",\"checksum\":\"d12be041e3db336bcf82a7715da577dcae81264ecf74c624e2ee2da306807a38\",\"notes\":\"Aggiornamenti firmati e verificati; app Android in versione definitiva\"}}",
+    "signature": "rNTX83HawjXrQijwy6YSstUZ52kl2l0D/GSe+iw9LjP3Lj60oPRDbZ4PCt4VQSIysoF7RK337rwjnrDIJ7sWDw=="
   }
 }
