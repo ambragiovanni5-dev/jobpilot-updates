@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.5.0",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.5.0/web-1.5.0.zip",
-    "checksum": "a8d7971c25abd942f6cc637923d92477ee1a40926facb54cfeb208c93802328c",
-    "notes": "Sincronizzazione automatica e cifrata tra PC e telefono"
+    "version": "1.5.1",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.5.1/web-1.5.1.zip",
+    "checksum": "82ded5370b19331ed052e47ae3bbac80cebba308238beeca180a403fa31a1b38",
+    "notes": "Home: riquadro 'Buone mai aperte' più chiaro, porta alle offerte corrispondenti"
   },
   "android": {
     "build": 4,
@@ -19,7 +19,7 @@
     "notes": "Accesso con impronta, volto o PIN all'apertura dell'app sul telefono"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.5.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.5.0/web-1.5.0.zip\",\"checksum\":\"a8d7971c25abd942f6cc637923d92477ee1a40926facb54cfeb208c93802328c\",\"notes\":\"Sincronizzazione automatica e cifrata tra PC e telefono\"},\"android\":{\"build\":4,\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot.apk\",\"checksum\":\"bc38c957018cdee511b8d475fba15f458f7bddf5dfdd4c81b810a7403e8505c2\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"},\"windows\":{\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot-Setup-1.3.0.exe\",\"checksum\":\"4750e1cfaf191290dbc14d139422df3e432eb304e01105746bb971bf13742d7e\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"}}",
-    "signature": "e+FBZp5sbT5Ya5SDiNuLtKEcJKrOVsmoyg/f9hNH3taU+uxxHJc/v+wq0frlHsBEEzHsI2oWurUfNoxYxwvbBA=="
+    "payload": "{\"web\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.5.1/web-1.5.1.zip\",\"checksum\":\"82ded5370b19331ed052e47ae3bbac80cebba308238beeca180a403fa31a1b38\",\"notes\":\"Home: riquadro 'Buone mai aperte' più chiaro, porta alle offerte corrispondenti\"},\"android\":{\"build\":4,\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot.apk\",\"checksum\":\"bc38c957018cdee511b8d475fba15f458f7bddf5dfdd4c81b810a7403e8505c2\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"},\"windows\":{\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot-Setup-1.3.0.exe\",\"checksum\":\"4750e1cfaf191290dbc14d139422df3e432eb304e01105746bb971bf13742d7e\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"}}",
+    "signature": "iwNT9Nj2rV9J03Jt3yniJRnGel8aaaFkTmnmVBYtqP6lLBeO3q9S3Yf92q+e8yO7B8u3wQeCOVsummNwpY4+Cw=="
   }
 }
