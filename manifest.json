@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.5.1",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.5.1/web-1.5.1.zip",
-    "checksum": "82ded5370b19331ed052e47ae3bbac80cebba308238beeca180a403fa31a1b38",
-    "notes": "Home: riquadro 'Buone mai aperte' più chiaro, porta alle offerte corrispondenti"
+    "version": "1.5.2",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.5.2/web-1.5.2.zip",
+    "checksum": "aa3cec6dcc5e07a9342bb9fdfb0ec189ad9ce09701ce235821a9ee791948ea4c",
+    "notes": "Anche lo storico delle ricerche si sincronizza tra PC e telefono"
   },
   "android": {
     "build": 4,
@@ -19,7 +19,7 @@
     "notes": "Accesso con impronta, volto o PIN all'apertura dell'app sul telefono"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.5.1/web-1.5.1.zip\",\"checksum\":\"82ded5370b19331ed052e47ae3bbac80cebba308238beeca180a403fa31a1b38\",\"notes\":\"Home: riquadro 'Buone mai aperte' più chiaro, porta alle offerte corrispondenti\"},\"android\":{\"build\":4,\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot.apk\",\"checksum\":\"bc38c957018cdee511b8d475fba15f458f7bddf5dfdd4c81b810a7403e8505c2\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"},\"windows\":{\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot-Setup-1.3.0.exe\",\"checksum\":\"4750e1cfaf191290dbc14d139422df3e432eb304e01105746bb971bf13742d7e\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"}}",
-    "signature": "iwNT9Nj2rV9J03Jt3yniJRnGel8aaaFkTmnmVBYtqP6lLBeO3q9S3Yf92q+e8yO7B8u3wQeCOVsummNwpY4+Cw=="
+    "payload": "{\"web\":{\"version\":\"1.5.2\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.5.2/web-1.5.2.zip\",\"checksum\":\"aa3cec6dcc5e07a9342bb9fdfb0ec189ad9ce09701ce235821a9ee791948ea4c\",\"notes\":\"Anche lo storico delle ricerche si sincronizza tra PC e telefono\"},\"android\":{\"build\":4,\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot.apk\",\"checksum\":\"bc38c957018cdee511b8d475fba15f458f7bddf5dfdd4c81b810a7403e8505c2\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"},\"windows\":{\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot-Setup-1.3.0.exe\",\"checksum\":\"4750e1cfaf191290dbc14d139422df3e432eb304e01105746bb971bf13742d7e\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"}}",
+    "signature": "MVmIJ4w+dpjNjelB9JclzPESNF/l5owPzW3XRZO4COFDBkJC0ka1M2/aSa+ckfH+KJrLfqHEQaCgPr4FCMVXDw=="
   }
 }
