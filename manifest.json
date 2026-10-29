@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.5.9",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.5.9/web-1.5.9.zip",
-    "checksum": "c62003ed4e644cb68e1844caabe5d7be4085e3055233b5509e52363a777fa8a5",
-    "notes": "Ungheria: profession.hu cercato con tutte le parole del titolo; punteggio e giudizio sempre coerenti"
+    "version": "1.6.0",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.6.0/web-1.6.0.zip",
+    "checksum": "11a13ab8a279fac9cba1420de4e83acf9154c747097e5f2ed053021eeb501850",
+    "notes": "Tema scuro: in Filtri → Aspetto scegli Automatico, Chiaro o Scuro"
   },
   "android": {
     "build": 4,
@@ -19,7 +19,7 @@
     "notes": "Accesso con impronta, volto o PIN all'apertura dell'app sul telefono"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.5.9\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.5.9/web-1.5.9.zip\",\"checksum\":\"c62003ed4e644cb68e1844caabe5d7be4085e3055233b5509e52363a777fa8a5\",\"notes\":\"Ungheria: profession.hu cercato con tutte le parole del titolo; punteggio e giudizio sempre coerenti\"},\"android\":{\"build\":4,\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot.apk\",\"checksum\":\"bc38c957018cdee511b8d475fba15f458f7bddf5dfdd4c81b810a7403e8505c2\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"},\"windows\":{\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot-Setup-1.3.0.exe\",\"checksum\":\"4750e1cfaf191290dbc14d139422df3e432eb304e01105746bb971bf13742d7e\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"}}",
-    "signature": "EUXtMK2JLHEz3LDdZIMdqK1Pjm0aluro8Fsy5y8Sa1h0KiGmZX0oy/me5F2qh6MFvSK5j0Hfd3D3/dWjd3vQDA=="
+    "payload": "{\"web\":{\"version\":\"1.6.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.6.0/web-1.6.0.zip\",\"checksum\":\"11a13ab8a279fac9cba1420de4e83acf9154c747097e5f2ed053021eeb501850\",\"notes\":\"Tema scuro: in Filtri → Aspetto scegli Automatico, Chiaro o Scuro\"},\"android\":{\"build\":4,\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot.apk\",\"checksum\":\"bc38c957018cdee511b8d475fba15f458f7bddf5dfdd4c81b810a7403e8505c2\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"},\"windows\":{\"version\":\"1.3.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.3.0/JobPilot-Setup-1.3.0.exe\",\"checksum\":\"4750e1cfaf191290dbc14d139422df3e432eb304e01105746bb971bf13742d7e\",\"notes\":\"Accesso con impronta, volto o PIN all'apertura dell'app sul telefono\"}}",
+    "signature": "ufRteST8IotgU1B5Zdd9pKXFdtSnBNb4Zl8DOlObSk7tZ7myClj+vxlspFXIsdVYOI4sMLpBgUfiQ4rIEe+JCg=="
   }
 }
