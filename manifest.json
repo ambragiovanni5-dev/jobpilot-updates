@@ -1,25 +1,25 @@
 {
   "web": {
-    "version": "1.8.0",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.8.0/web-1.8.0.zip",
-    "checksum": "2054e40a3646bb564b80a76f926e42f0c14c3d47b04436a65b383eb4b1a364a8",
-    "notes": "Accesso con account (facoltativo): Google o link email su PC e telefono, informativa privacy, esporta ed elimina account"
+    "version": "1.8.1",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.8.1/web-1.8.1.zip",
+    "checksum": "c1c7f7ebe02a4dda456506301a6564492b730c9a48cd96b14cbf46d8b26ab5e4",
+    "notes": "Accesso con Google sul PC piu affidabile: ritorno diretto nell'app"
   },
   "android": {
-    "build": 5,
-    "version": "1.4.0",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.0/JobPilot.apk",
-    "checksum": "0ffce0684fb888fb0d438882070284af4aaeb25e4305f4beb5192df2460b07b1",
-    "notes": "Accesso con account (facoltativo): Google o link email su PC e telefono, informativa privacy, esporta ed elimina account"
+    "build": 6,
+    "version": "1.4.1",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot.apk",
+    "checksum": "c80ca12083597b0332cf93f280c806bab221b058af4be3657cadceff3ace2a4d",
+    "notes": "Accesso con Google sul PC piu affidabile: ritorno diretto nell'app"
   },
   "windows": {
-    "version": "1.4.0",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.0/JobPilot-Setup-1.4.0.exe",
-    "checksum": "8d8de6aaac3d94882705d861d23471ad35a787d482cc952177e08752a32f8fda",
-    "notes": "Accesso con account (facoltativo): Google o link email su PC e telefono, informativa privacy, esporta ed elimina account"
+    "version": "1.4.1",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot-Setup-1.4.1.exe",
+    "checksum": "ad728ada580d431ea4ccae017e2b5eb20158d768ba545fbf78ebf9f4b0180cb9",
+    "notes": "Accesso con Google sul PC piu affidabile: ritorno diretto nell'app"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.8.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.8.0/web-1.8.0.zip\",\"checksum\":\"2054e40a3646bb564b80a76f926e42f0c14c3d47b04436a65b383eb4b1a364a8\",\"notes\":\"Accesso con account (facoltativo): Google o link email su PC e telefono, informativa privacy, esporta ed elimina account\"},\"android\":{\"build\":5,\"version\":\"1.4.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.0/JobPilot.apk\",\"checksum\":\"0ffce0684fb888fb0d438882070284af4aaeb25e4305f4beb5192df2460b07b1\",\"notes\":\"Accesso con account (facoltativo): Google o link email su PC e telefono, informativa privacy, esporta ed elimina account\"},\"windows\":{\"version\":\"1.4.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.0/JobPilot-Setup-1.4.0.exe\",\"checksum\":\"8d8de6aaac3d94882705d861d23471ad35a787d482cc952177e08752a32f8fda\",\"notes\":\"Accesso con account (facoltativo): Google o link email su PC e telefono, informativa privacy, esporta ed elimina account\"}}",
-    "signature": "i2+RfNy41XHnAEWHMUdODmMmI8eYF4uZOHBPNTyuE1gCVwdXYvN/noaVeUIdDx1lvH+WzQXvIoi9PSALK9nODg=="
+    "payload": "{\"web\":{\"version\":\"1.8.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.8.1/web-1.8.1.zip\",\"checksum\":\"c1c7f7ebe02a4dda456506301a6564492b730c9a48cd96b14cbf46d8b26ab5e4\",\"notes\":\"Accesso con Google sul PC piu affidabile: ritorno diretto nell'app\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot.apk\",\"checksum\":\"c80ca12083597b0332cf93f280c806bab221b058af4be3657cadceff3ace2a4d\",\"notes\":\"Accesso con Google sul PC piu affidabile: ritorno diretto nell'app\"},\"windows\":{\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot-Setup-1.4.1.exe\",\"checksum\":\"ad728ada580d431ea4ccae017e2b5eb20158d768ba545fbf78ebf9f4b0180cb9\",\"notes\":\"Accesso con Google sul PC piu affidabile: ritorno diretto nell'app\"}}",
+    "signature": "qR2JtHv6tz5Bhxyt6+ZcmnXQSVrcG0qlZuPaI0nUEt5AMyypLTwvugjhqmjaNxKWhbaaYoh5NXWz/ld3ywP1Dw=="
   }
 }
