@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.8.2",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.8.2/web-1.8.2.zip",
-    "checksum": "3defd1466089f09a012d8f07a7acce914b3d9b36f40a9d81f8d5eef5be5b6bbb",
-    "notes": "Corretto: un aggiornamento del database poteva far sovrascrivere i dati piu recenti dell'altro dispositivo"
+    "version": "1.8.3",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.8.3/web-1.8.3.zip",
+    "checksum": "617ecdc82b2db6640ecaa3d2bc4f3aee371a24564f79aa8bb57312b82489ba15",
+    "notes": "Corretto errore di sincronizzazione sullo storico delle ricerche"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Accesso con Google sul PC piu affidabile: ritorno diretto nell'app"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.8.2\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.8.2/web-1.8.2.zip\",\"checksum\":\"3defd1466089f09a012d8f07a7acce914b3d9b36f40a9d81f8d5eef5be5b6bbb\",\"notes\":\"Corretto: un aggiornamento del database poteva far sovrascrivere i dati piu recenti dell'altro dispositivo\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot.apk\",\"checksum\":\"c80ca12083597b0332cf93f280c806bab221b058af4be3657cadceff3ace2a4d\",\"notes\":\"Accesso con Google sul PC piu affidabile: ritorno diretto nell'app\"},\"windows\":{\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot-Setup-1.4.1.exe\",\"checksum\":\"ad728ada580d431ea4ccae017e2b5eb20158d768ba545fbf78ebf9f4b0180cb9\",\"notes\":\"Accesso con Google sul PC piu affidabile: ritorno diretto nell'app\"}}",
-    "signature": "hXfNQ1G05Z9sZy1UDdJ45Ssd+cTQtjLvAa4mIB5id22NTRqegjbmlExK24MRBbWV26VzQIZ9+zOWZTbH6+2BDg=="
+    "payload": "{\"web\":{\"version\":\"1.8.3\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.8.3/web-1.8.3.zip\",\"checksum\":\"617ecdc82b2db6640ecaa3d2bc4f3aee371a24564f79aa8bb57312b82489ba15\",\"notes\":\"Corretto errore di sincronizzazione sullo storico delle ricerche\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot.apk\",\"checksum\":\"c80ca12083597b0332cf93f280c806bab221b058af4be3657cadceff3ace2a4d\",\"notes\":\"Accesso con Google sul PC piu affidabile: ritorno diretto nell'app\"},\"windows\":{\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot-Setup-1.4.1.exe\",\"checksum\":\"ad728ada580d431ea4ccae017e2b5eb20158d768ba545fbf78ebf9f4b0180cb9\",\"notes\":\"Accesso con Google sul PC piu affidabile: ritorno diretto nell'app\"}}",
+    "signature": "iH8SOWtKfE+V/V4BA0k9hQf9MuQOtcUs4c8No4SB/abSuJ97H11tvl1lQBSyZjsrDCIy6gAoEPI2zr5gKAqbBw=="
   }
 }
