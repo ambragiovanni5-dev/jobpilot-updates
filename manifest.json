@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.9.0",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.0/web-1.9.0.zip",
-    "checksum": "89eb3a78e1f81566ffdfce6e56c7754fcdae6b8454d5c2be5a7cf420e7b5c379",
-    "notes": "Preparazione per ogni colloquio: nella candidatura, sotto il colloquio fissato, 'Preparami a questo colloquio' scrive una scheda su misura per quel round (intervistatore, note, round precedenti), apribile e salvabile in PDF"
+    "version": "1.9.1",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.1/web-1.9.1.zip",
+    "checksum": "df96c0ab1ef8ff80511e7a8e936f7e042b8998eaafeb18d4f42832e97400f16b",
+    "notes": "Recupero dati sul PC e aggiornamenti piu sicuri: 'Aggiorna ora' non chiude piu l'app di colpo (causa probabile della perdita del database). Include la preparazione per ogni colloquio (1.9.0)"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Accesso con Google sul PC piu affidabile: ritorno diretto nell'app"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.9.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.0/web-1.9.0.zip\",\"checksum\":\"89eb3a78e1f81566ffdfce6e56c7754fcdae6b8454d5c2be5a7cf420e7b5c379\",\"notes\":\"Preparazione per ogni colloquio: nella candidatura, sotto il colloquio fissato, 'Preparami a questo colloquio' scrive una scheda su misura per quel round (intervistatore, note, round precedenti), apribile e salvabile in PDF\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot.apk\",\"checksum\":\"c80ca12083597b0332cf93f280c806bab221b058af4be3657cadceff3ace2a4d\",\"notes\":\"Accesso con Google sul PC piu affidabile: ritorno diretto nell'app\"},\"windows\":{\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot-Setup-1.4.1.exe\",\"checksum\":\"ad728ada580d431ea4ccae017e2b5eb20158d768ba545fbf78ebf9f4b0180cb9\",\"notes\":\"Accesso con Google sul PC piu affidabile: ritorno diretto nell'app\"}}",
-    "signature": "7AqF5q6g5vXLzusBb4kW/bbv4LHkn6tyXaoEMwbHhZKn3CdxAYLfivwuSwHO2+gpXDI6cXPGoHWOLM4DkabMCQ=="
+    "payload": "{\"web\":{\"version\":\"1.9.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.1/web-1.9.1.zip\",\"checksum\":\"df96c0ab1ef8ff80511e7a8e936f7e042b8998eaafeb18d4f42832e97400f16b\",\"notes\":\"Recupero dati sul PC e aggiornamenti piu sicuri: 'Aggiorna ora' non chiude piu l'app di colpo (causa probabile della perdita del database). Include la preparazione per ogni colloquio (1.9.0)\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot.apk\",\"checksum\":\"c80ca12083597b0332cf93f280c806bab221b058af4be3657cadceff3ace2a4d\",\"notes\":\"Accesso con Google sul PC piu affidabile: ritorno diretto nell'app\"},\"windows\":{\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.1/JobPilot-Setup-1.4.1.exe\",\"checksum\":\"ad728ada580d431ea4ccae017e2b5eb20158d768ba545fbf78ebf9f4b0180cb9\",\"notes\":\"Accesso con Google sul PC piu affidabile: ritorno diretto nell'app\"}}",
+    "signature": "ewFgexN9yCZgfVAqGdAL3H+QqX2xXkz2WX6wzWUtmV9HPqxMG6cTNU3KTUNh3cJ4jRdyaaM1PqY04Szp3OXgBw=="
   }
 }
