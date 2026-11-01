@@ -2,24 +2,24 @@
   "web": {
     "version": "1.9.2",
     "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.2/web-1.9.2.zip",
-    "checksum": "114818245bc3d257145f7ab2e4c06d1b42f1abd8267d43c8268f242830d2c11d",
-    "notes": "Protezione dei dati: copia di sicurezza automatica in un file separato (PC: una al giorno per 14 giorni) e ripristino automatico se il database si svuota. Aggiornamenti senza chiusura brusca dell'app."
+    "checksum": "24ab01583f3b13ac7d38d4cd0801b96798e26ac44bd4cd699e749937a3c771ed",
+    "notes": "Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre"
   },
   "android": {
     "build": 6,
     "version": "1.4.1",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.2/JobPilot.apk",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.3/JobPilot.apk",
     "checksum": "4413d1908ca21ffbf9d394d76640be6c1e076d21dbbe264821f6a1c31f514723",
-    "notes": "Protezione dei dati: copia di sicurezza automatica in un file separato (PC: una al giorno per 14 giorni) e ripristino automatico se il database si svuota. Aggiornamenti senza chiusura brusca dell'app."
+    "notes": "Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre"
   },
   "windows": {
-    "version": "1.4.2",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.2/JobPilot-Setup-1.4.2.exe",
-    "checksum": "7748ff8c8f1b6b696d953e673be6938749fe8a341f950ddbcc9a904931932fba",
-    "notes": "Protezione dei dati: copia di sicurezza automatica in un file separato (PC: una al giorno per 14 giorni) e ripristino automatico se il database si svuota. Aggiornamenti senza chiusura brusca dell'app."
+    "version": "1.4.3",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.3/JobPilot-Setup-1.4.3.exe",
+    "checksum": "428e5ee1fdc88ecd4d0b538f2b8ba5eb86f02e17bdd0f882dcd143dce1690df1",
+    "notes": "Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.9.2\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.2/web-1.9.2.zip\",\"checksum\":\"114818245bc3d257145f7ab2e4c06d1b42f1abd8267d43c8268f242830d2c11d\",\"notes\":\"Protezione dei dati: copia di sicurezza automatica in un file separato (PC: una al giorno per 14 giorni) e ripristino automatico se il database si svuota. Aggiornamenti senza chiusura brusca dell'app.\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.2/JobPilot.apk\",\"checksum\":\"4413d1908ca21ffbf9d394d76640be6c1e076d21dbbe264821f6a1c31f514723\",\"notes\":\"Protezione dei dati: copia di sicurezza automatica in un file separato (PC: una al giorno per 14 giorni) e ripristino automatico se il database si svuota. Aggiornamenti senza chiusura brusca dell'app.\"},\"windows\":{\"version\":\"1.4.2\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.2/JobPilot-Setup-1.4.2.exe\",\"checksum\":\"7748ff8c8f1b6b696d953e673be6938749fe8a341f950ddbcc9a904931932fba\",\"notes\":\"Protezione dei dati: copia di sicurezza automatica in un file separato (PC: una al giorno per 14 giorni) e ripristino automatico se il database si svuota. Aggiornamenti senza chiusura brusca dell'app.\"}}",
-    "signature": "3n2C8uplylTkjwyGYdJnHrRc3onmNNWC+vFwIbli2jlQFIhIqxRmURvmv4WCKbl2S/0vYSfcuhGGVnUMHm2mAw=="
+    "payload": "{\"web\":{\"version\":\"1.9.2\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.2/web-1.9.2.zip\",\"checksum\":\"24ab01583f3b13ac7d38d4cd0801b96798e26ac44bd4cd699e749937a3c771ed\",\"notes\":\"Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.3/JobPilot.apk\",\"checksum\":\"4413d1908ca21ffbf9d394d76640be6c1e076d21dbbe264821f6a1c31f514723\",\"notes\":\"Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre\"},\"windows\":{\"version\":\"1.4.3\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.3/JobPilot-Setup-1.4.3.exe\",\"checksum\":\"428e5ee1fdc88ecd4d0b538f2b8ba5eb86f02e17bdd0f882dcd143dce1690df1\",\"notes\":\"Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre\"}}",
+    "signature": "g7sOTAVu1co0K02FVGWDgZYqFpfEyBnT/JRB0LleSBt0PxIUvBYZcN0wmDt0LavzmGT2gwFyKYdTv53HSFJEBw=="
   }
 }
