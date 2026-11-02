@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.9.2",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.2/web-1.9.2.zip",
-    "checksum": "24ab01583f3b13ac7d38d4cd0801b96798e26ac44bd4cd699e749937a3c771ed",
-    "notes": "Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre"
+    "version": "1.9.3",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.3/web-1.9.3.zip",
+    "checksum": "dbfbabd02fcd6245e4f31b36581bfbcb295b4bce651e53cfd0db0efa2ad83c0e",
+    "notes": "La ricerca non parte più da sola all'apertura"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.9.2\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.2/web-1.9.2.zip\",\"checksum\":\"24ab01583f3b13ac7d38d4cd0801b96798e26ac44bd4cd699e749937a3c771ed\",\"notes\":\"Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.3/JobPilot.apk\",\"checksum\":\"4413d1908ca21ffbf9d394d76640be6c1e076d21dbbe264821f6a1c31f514723\",\"notes\":\"Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre\"},\"windows\":{\"version\":\"1.4.3\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.3/JobPilot-Setup-1.4.3.exe\",\"checksum\":\"428e5ee1fdc88ecd4d0b538f2b8ba5eb86f02e17bdd0f882dcd143dce1690df1\",\"notes\":\"Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre\"}}",
-    "signature": "g7sOTAVu1co0K02FVGWDgZYqFpfEyBnT/JRB0LleSBt0PxIUvBYZcN0wmDt0LavzmGT2gwFyKYdTv53HSFJEBw=="
+    "payload": "{\"web\":{\"version\":\"1.9.3\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.3/web-1.9.3.zip\",\"checksum\":\"dbfbabd02fcd6245e4f31b36581bfbcb295b4bce651e53cfd0db0efa2ad83c0e\",\"notes\":\"La ricerca non parte più da sola all'apertura\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.3/JobPilot.apk\",\"checksum\":\"4413d1908ca21ffbf9d394d76640be6c1e076d21dbbe264821f6a1c31f514723\",\"notes\":\"Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre\"},\"windows\":{\"version\":\"1.4.3\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.3/JobPilot-Setup-1.4.3.exe\",\"checksum\":\"428e5ee1fdc88ecd4d0b538f2b8ba5eb86f02e17bdd0f882dcd143dce1690df1\",\"notes\":\"Aggiornamento del programma senza blocchi: si chiude da solo, si installa e si riapre\"}}",
+    "signature": "UG0mLBCkiIfTZL+O+Oaom2PLOzA8mU+wzV31jjue5N4nT1um69bslaGD529FhUeqWBHxsc4Fj9SSe5c+HA21BQ=="
   }
 }
