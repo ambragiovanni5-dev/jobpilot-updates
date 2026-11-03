@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.9.7",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.7/web-1.9.7.zip",
-    "checksum": "2728ebe66b6788b9528dbc3219aa9878c0a41c2cc07f0e3781e9402a63430942",
-    "notes": "Nuova pagina Colloqui: in programma, com'è andata e riepilogo dei colloqui fatti"
+    "version": "1.9.8",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.8/web-1.9.8.zip",
+    "checksum": "09086515d731a7850d897b75b8557ceb1941d527bef1b40d179a336d20f2465d",
+    "notes": "Email di ringraziamento classica, senza riferimenti al colloquio"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Aggiornamento del programma: installazione automatica corretta"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.9.7\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.7/web-1.9.7.zip\",\"checksum\":\"2728ebe66b6788b9528dbc3219aa9878c0a41c2cc07f0e3781e9402a63430942\",\"notes\":\"Nuova pagina Colloqui: in programma, com'è andata e riepilogo dei colloqui fatti\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
-    "signature": "HGKxWMOXM8rY8GWvCsVutUSsG4dFqCZ9hCTagkdy1HlBD7VN5hTWkJRihF9G2mWFvh+4xugrQZSqjF1osCxxAw=="
+    "payload": "{\"web\":{\"version\":\"1.9.8\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.8/web-1.9.8.zip\",\"checksum\":\"09086515d731a7850d897b75b8557ceb1941d527bef1b40d179a336d20f2465d\",\"notes\":\"Email di ringraziamento classica, senza riferimenti al colloquio\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
+    "signature": "4FzGJt/EI7NzEvw4opVRx5d5/L2Y9rxItXHIRe62g8+7EUmKetV6uyyXSbQQ/aXtv7pF+EZoU/B0RDYEpMJcDg=="
   }
 }
