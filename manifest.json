@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.9.9",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.9/web-1.9.9.zip",
-    "checksum": "37680f5fa665e844cade7cab5831919e350167e83bd8f61842060405d825526b",
-    "notes": "Candidature: filtro per nazione e città"
+    "version": "1.9.10",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.10/web-1.9.10.zip",
+    "checksum": "4c84c71f2105c3ee51aef6845bb43d80a26ec2ec38966682c6800cba2839fcb6",
+    "notes": "Valutazione: se LinkedIn limita le richieste si va avanti con le altre offerte"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Aggiornamento del programma: installazione automatica corretta"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.9.9\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.9/web-1.9.9.zip\",\"checksum\":\"37680f5fa665e844cade7cab5831919e350167e83bd8f61842060405d825526b\",\"notes\":\"Candidature: filtro per nazione e città\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
-    "signature": "9AsDwlFcf3bOW8tWKRAd0TYe/JWEJD1N9lXKRPUKE4IjFnJU3OUIh7TKfcS2dAIh0qj91vN5wZHCagqym0WbAA=="
+    "payload": "{\"web\":{\"version\":\"1.9.10\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.9.10/web-1.9.10.zip\",\"checksum\":\"4c84c71f2105c3ee51aef6845bb43d80a26ec2ec38966682c6800cba2839fcb6\",\"notes\":\"Valutazione: se LinkedIn limita le richieste si va avanti con le altre offerte\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
+    "signature": "dewE6AEK8ZRQRzSfvTriX9V4CffM2G/Fd1gxohBDNCxISlPriUIe+v8gQd8YOmp5riV6UyVrB/r2ZyNrjBxtCA=="
   }
 }
