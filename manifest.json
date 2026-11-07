@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.10.3",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.3/web-1.10.3.zip",
-    "checksum": "8078a1da49fe7b6e2b3ba35c197341a20939db6adb7ed64c3c394bae14b2eb05",
-    "notes": "Un annuncio a cui ti sei già candidato non ricompare se arriva da un altro sito con la città scritta diversamente"
+    "version": "1.10.4",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.4/web-1.10.4.zip",
+    "checksum": "c66598c130467b9c01c636bff51e134d97f0b5576211750dada506594cf0cedd",
+    "notes": "AI inclusa: collegamento al server di JobPilot"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Aggiornamento del programma: installazione automatica corretta"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.3\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.3/web-1.10.3.zip\",\"checksum\":\"8078a1da49fe7b6e2b3ba35c197341a20939db6adb7ed64c3c394bae14b2eb05\",\"notes\":\"Un annuncio a cui ti sei già candidato non ricompare se arriva da un altro sito con la città scritta diversamente\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
-    "signature": "ciao1NtusinrT2l5XI11KiHBkZLvqRgfHJc67Ht/efEbj5f+FIyojhXZRBKb2Y9O+AvhO7w6/hPfG8HD3ukACw=="
+    "payload": "{\"web\":{\"version\":\"1.10.4\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.4/web-1.10.4.zip\",\"checksum\":\"c66598c130467b9c01c636bff51e134d97f0b5576211750dada506594cf0cedd\",\"notes\":\"AI inclusa: collegamento al server di JobPilot\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
+    "signature": "l227AC/9c3EUkagbcitA2TvFAT3oGNpbZZfZ8s3I63M8JyAK02YaKD5F3qO0VszHGcVzavK8Ub3UKBjy5Q21BQ=="
   }
 }
