@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.10.4",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.4/web-1.10.4.zip",
-    "checksum": "c66598c130467b9c01c636bff51e134d97f0b5576211750dada506594cf0cedd",
-    "notes": "AI inclusa: collegamento al server di JobPilot"
+    "version": "1.10.5",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.5/web-1.10.5.zip",
+    "checksum": "581c2b9f29928cc2e8a2de92ed7c8ccff9c5237b14943b6d744a79d8533406cd",
+    "notes": "Sincronizzazione PC-telefono tramite il tuo account, senza GitHub"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Aggiornamento del programma: installazione automatica corretta"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.4\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.4/web-1.10.4.zip\",\"checksum\":\"c66598c130467b9c01c636bff51e134d97f0b5576211750dada506594cf0cedd\",\"notes\":\"AI inclusa: collegamento al server di JobPilot\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
-    "signature": "l227AC/9c3EUkagbcitA2TvFAT3oGNpbZZfZ8s3I63M8JyAK02YaKD5F3qO0VszHGcVzavK8Ub3UKBjy5Q21BQ=="
+    "payload": "{\"web\":{\"version\":\"1.10.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.5/web-1.10.5.zip\",\"checksum\":\"581c2b9f29928cc2e8a2de92ed7c8ccff9c5237b14943b6d744a79d8533406cd\",\"notes\":\"Sincronizzazione PC-telefono tramite il tuo account, senza GitHub\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
+    "signature": "BytIxgtzB1DQXkIEOnVJgmzRn7TBRCFXXHm6jG0f+1rGsYbCPro9rnMszO6BV/eXEG3/42DlqMDo4ZB+CfRUDg=="
   }
 }
