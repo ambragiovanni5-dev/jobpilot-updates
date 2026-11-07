@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.10.7",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.7/web-1.10.7.zip",
-    "checksum": "03e677f7794a762286e97dd4a371cafe94204ba11cf72f18d11b34ec9cf3d409",
-    "notes": "Italia: 14 città, annunci da Subito, EURES e LinkedIn, ricerche con i titoli italiani"
+    "version": "1.10.8",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.8/web-1.10.8.zip",
+    "checksum": "800104bc4c37dd8b71993097103ccee82641738ad84f9d9720dd20a4e8e3e16d",
+    "notes": "Germania: 8 città, annunci da Jobbörse, StepStone, EURES e LinkedIn"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Aggiornamento del programma: installazione automatica corretta"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.7\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.7/web-1.10.7.zip\",\"checksum\":\"03e677f7794a762286e97dd4a371cafe94204ba11cf72f18d11b34ec9cf3d409\",\"notes\":\"Italia: 14 città, annunci da Subito, EURES e LinkedIn, ricerche con i titoli italiani\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
-    "signature": "t5M3oCd8XYNKwtYfdZXrRqMu4dRO7hcDBzhUxM1+vhq2OW7ESm2c+foaZLKZ98DcIXnPyQ3uLghaykXISsxeDA=="
+    "payload": "{\"web\":{\"version\":\"1.10.8\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.8/web-1.10.8.zip\",\"checksum\":\"800104bc4c37dd8b71993097103ccee82641738ad84f9d9720dd20a4e8e3e16d\",\"notes\":\"Germania: 8 città, annunci da Jobbörse, StepStone, EURES e LinkedIn\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
+    "signature": "6w9Q6Y/+YVdu1K1mRBCRePJyBjvCmQS4Qv4tQ6iabsyvBbhnjAwNk84WoNMQK0nAlw2vT7NXYIIdzkL02jQMAA=="
   }
 }
