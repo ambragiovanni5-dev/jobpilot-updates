@@ -2,8 +2,8 @@
   "web": {
     "version": "1.10.2",
     "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.2/web-1.10.2.zip",
-    "checksum": "7128edbedc40bb90e37c4418c9e240334a589c5313135580e1f2fec019746774",
-    "notes": "Percorso utente nuovo: accesso, configurazione guidata riprendibile, prima ricerca; regole di prima ripristinabili"
+    "checksum": "1e589006a77bdc5db569e7da79756e2f0d1a61a7838c46b80bf11b299f992cd0",
+    "notes": "Un annuncio a cui ti sei già candidato non ricompare se arriva da un altro sito con la città scritta diversamente"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Aggiornamento del programma: installazione automatica corretta"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.2\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.2/web-1.10.2.zip\",\"checksum\":\"7128edbedc40bb90e37c4418c9e240334a589c5313135580e1f2fec019746774\",\"notes\":\"Percorso utente nuovo: accesso, configurazione guidata riprendibile, prima ricerca; regole di prima ripristinabili\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
-    "signature": "htj2ixZlwEK0x29MzdHd87oCvF7pJlgM+QSwSgMkwY01kDG8fpKkeCrd1Ngyhw0TGylDg+Tuz0x3AKMRj3peCg=="
+    "payload": "{\"web\":{\"version\":\"1.10.2\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.2/web-1.10.2.zip\",\"checksum\":\"1e589006a77bdc5db569e7da79756e2f0d1a61a7838c46b80bf11b299f992cd0\",\"notes\":\"Un annuncio a cui ti sei già candidato non ricompare se arriva da un altro sito con la città scritta diversamente\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
+    "signature": "UkwcfFOdC530aFmRzzXtarOeq2ivp6MDw8+pVVAs24gDHzhb18ucAZnEKbCdU/CGu6zmUSxEhlmBA18womFYBw=="
   }
 }
