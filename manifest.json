@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.10.9",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.9/web-1.10.9.zip",
-    "checksum": "876275e5be7afb6a0b22855ef526de7085d2caa1086e1cc580ab08a1fc1f7eae",
-    "notes": "Spagna: 8 città con EURES (offerte del SEPE) e LinkedIn, ricerche con i titoli spagnoli"
+    "version": "1.10.10",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.10/web-1.10.10.zip",
+    "checksum": "18acf33ddc7878c1ea975480aa326688223b4ee96072fc2c2f9e7c20ffb977d2",
+    "notes": "Francia (9 città, EURES con le offerte di France Travail) e Portogallo (6 città, Net-Empregos)"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Aggiornamento del programma: installazione automatica corretta"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.9\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.9/web-1.10.9.zip\",\"checksum\":\"876275e5be7afb6a0b22855ef526de7085d2caa1086e1cc580ab08a1fc1f7eae\",\"notes\":\"Spagna: 8 città con EURES (offerte del SEPE) e LinkedIn, ricerche con i titoli spagnoli\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
-    "signature": "/7Q2hp/LMwv1vAw2cRxLuveQFpmTJFo9fe6/7jDuiTllwI+mxnpX50uLffxFeaoG5lsUmHs/D5pR0uTBH1VABQ=="
+    "payload": "{\"web\":{\"version\":\"1.10.10\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.10/web-1.10.10.zip\",\"checksum\":\"18acf33ddc7878c1ea975480aa326688223b4ee96072fc2c2f9e7c20ffb977d2\",\"notes\":\"Francia (9 città, EURES con le offerte di France Travail) e Portogallo (6 città, Net-Empregos)\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
+    "signature": "Asn2ZNOKCRdZud49+AFn3qDdv0jg2WwpXE1MKJgIK3wdyhX7gzeM3KtKn/Nskd3e/OM0BpK99UBNTYV9CqUQDA=="
   }
 }
