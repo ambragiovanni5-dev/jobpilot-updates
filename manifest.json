@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.10.11",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.11/web-1.10.11.zip",
-    "checksum": "82d34e73ac6544244ea301a8744aec22310bc6adc3c22b1de18db70f9d2ed382",
-    "notes": "Controllo aggiornamenti più affidabile quando il server di GitHub non risponde"
+    "version": "1.10.12",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.12/web-1.10.12.zip",
+    "checksum": "f45c03cbbc7331db65ee7aefd0172b27e034baaa8005c62a7329ddc578879320",
+    "notes": "Download degli aggiornamenti più affidabile: tre tentativi e messaggio chiaro se GitHub non risponde"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Aggiornamento del programma: installazione automatica corretta"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.11\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.11/web-1.10.11.zip\",\"checksum\":\"82d34e73ac6544244ea301a8744aec22310bc6adc3c22b1de18db70f9d2ed382\",\"notes\":\"Controllo aggiornamenti più affidabile quando il server di GitHub non risponde\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
-    "signature": "jPDU70ZrEFkKA1rrYi4oUbPWeAUpw3iu0oSXpZDWwezxcvIFQApl9xRPD/qo1insMUsSZG9QwDWS1c5KDlkaAA=="
+    "payload": "{\"web\":{\"version\":\"1.10.12\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.12/web-1.10.12.zip\",\"checksum\":\"f45c03cbbc7331db65ee7aefd0172b27e034baaa8005c62a7329ddc578879320\",\"notes\":\"Download degli aggiornamenti più affidabile: tre tentativi e messaggio chiaro se GitHub non risponde\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
+    "signature": "Z4RAvWKfwTM5+nVKUDEJBH2U6DSSjTf7p6XbfjaztanQfIeWzJja/Xz9iK5e7QTn8mImx48UX3IAAgOmc/41Cg=="
   }
 }
