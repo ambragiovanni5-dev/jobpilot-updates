@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.10.16",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.16/web-1.10.16.zip",
-    "checksum": "5febc7b43c01d9cb78de8a573d0a7701653f73d74982dffa6fbbd4a720e32858",
-    "notes": "Offerte con italiano: la segnalazione vale solo se l'italiano è nel titolo o richiesto nell'annuncio, non se il testo nomina l'Italia"
+    "version": "1.10.17",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.17/web-1.10.17.zip",
+    "checksum": "35f58fe997fa06348e5f9a27e25706e56701cc352ba5f2d5d9ca10084f7de278",
+    "notes": "Nuovo pulsante Annuncio scaduto nella pagina dell'offerta"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Aggiornamento del programma: installazione automatica corretta"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.16\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.16/web-1.10.16.zip\",\"checksum\":\"5febc7b43c01d9cb78de8a573d0a7701653f73d74982dffa6fbbd4a720e32858\",\"notes\":\"Offerte con italiano: la segnalazione vale solo se l'italiano è nel titolo o richiesto nell'annuncio, non se il testo nomina l'Italia\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
-    "signature": "X/P/LfJcAJS+idZFSl8owWX1tfaqHTd4tauc4ve+PuNeNCl9NpEutsG4wnGFpb+EkWm8COpHRQCtJT7meuteBQ=="
+    "payload": "{\"web\":{\"version\":\"1.10.17\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.17/web-1.10.17.zip\",\"checksum\":\"35f58fe997fa06348e5f9a27e25706e56701cc352ba5f2d5d9ca10084f7de278\",\"notes\":\"Nuovo pulsante Annuncio scaduto nella pagina dell'offerta\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot.apk\",\"checksum\":\"55a8ad58e905e6196e90bfbea51acdb7c6ae8118ad0e91ea744bebaddc66ac22\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"},\"windows\":{\"version\":\"1.4.5\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.4.5/JobPilot-Setup-1.4.5.exe\",\"checksum\":\"d4001a8dd17bd007403f0bda866021cbe3238dcca67326cc209887c66355983e\",\"notes\":\"Aggiornamento del programma: installazione automatica corretta\"}}",
+    "signature": "ldqu5SvzOoLCdOtsQ7tlvlyzvwYYsj1xo8GcmP+LmVrCxaQ+OOoxO/2E6nLZAY0wySilm4hnkZjHzADq6e2dBQ=="
   }
 }
