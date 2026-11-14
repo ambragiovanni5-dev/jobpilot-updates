@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.10.18",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.18/web-1.10.18.zip",
-    "checksum": "b08295389ea911b66f3a6a8b0b319b124770226192080b83c944fcdc66ae7eaf",
-    "notes": "Sicurezza del programma per PC: la firma degli aggiornamenti la verifica il programma, finestra isolata, solo indirizzi web ammessi"
+    "version": "1.10.19",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.19/web-1.10.19.zip",
+    "checksum": "46dc0e932346828b8f6b5bad565d5cbdfc4c1f8ead5be61d6fc25b4fe69c5258",
+    "notes": "Avviso sulle offerte di aziende che ti hanno già scartato; gli annunci ripubblicati dopo un rifiuto tornano tra le offerte"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Sicurezza del programma per PC: la firma degli aggiornamenti la verifica il programma, finestra isolata, solo indirizzi web ammessi"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.18\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.18/web-1.10.18.zip\",\"checksum\":\"b08295389ea911b66f3a6a8b0b319b124770226192080b83c944fcdc66ae7eaf\",\"notes\":\"Sicurezza del programma per PC: la firma degli aggiornamenti la verifica il programma, finestra isolata, solo indirizzi web ammessi\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.0/JobPilot.apk\",\"checksum\":\"2fa5e99d1abee3c4795077e30521aedff3bcfcad833aa49870c9547577c5b7db\",\"notes\":\"Sicurezza del programma per PC: la firma degli aggiornamenti la verifica il programma, finestra isolata, solo indirizzi web ammessi\"},\"windows\":{\"version\":\"1.5.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.0/JobPilot-Setup-1.5.0.exe\",\"checksum\":\"a1c64c8d481e02f8c66d464b85bfa2217ccec3798d43fba1ec937d67c82e6d7a\",\"notes\":\"Sicurezza del programma per PC: la firma degli aggiornamenti la verifica il programma, finestra isolata, solo indirizzi web ammessi\"}}",
-    "signature": "HqGU5F6BZU2WUuU4k5fDk9MrIwM3GQvqTI7w9zQtIceV3ia5yNpz8QgcXwQ/HOGncAWsEetwDaSn6ZrX/tmoAw=="
+    "payload": "{\"web\":{\"version\":\"1.10.19\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.19/web-1.10.19.zip\",\"checksum\":\"46dc0e932346828b8f6b5bad565d5cbdfc4c1f8ead5be61d6fc25b4fe69c5258\",\"notes\":\"Avviso sulle offerte di aziende che ti hanno già scartato; gli annunci ripubblicati dopo un rifiuto tornano tra le offerte\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.0/JobPilot.apk\",\"checksum\":\"2fa5e99d1abee3c4795077e30521aedff3bcfcad833aa49870c9547577c5b7db\",\"notes\":\"Sicurezza del programma per PC: la firma degli aggiornamenti la verifica il programma, finestra isolata, solo indirizzi web ammessi\"},\"windows\":{\"version\":\"1.5.0\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.0/JobPilot-Setup-1.5.0.exe\",\"checksum\":\"a1c64c8d481e02f8c66d464b85bfa2217ccec3798d43fba1ec937d67c82e6d7a\",\"notes\":\"Sicurezza del programma per PC: la firma degli aggiornamenti la verifica il programma, finestra isolata, solo indirizzi web ammessi\"}}",
+    "signature": "1NoMYvp/gJ7Guk334ijHyMc02NBPybe0b7A5Vv5LeRR+M/Y+kPAIdpWRSAWMv1wCV1wX1sZ+nuY+ZnJFfGGQAA=="
   }
 }
