@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.10.21",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.21/web-1.10.21.zip",
-    "checksum": "878186cf164e1952b5892857f566aec6113cdc0e3ca34239d03d5acf7cf4ddc0",
-    "notes": "Nuovo ruolo: segreteria e lavoro d'ufficio"
+    "version": "1.10.22",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.22/web-1.10.22.zip",
+    "checksum": "a923d40a446d8dc6091b29625aba013f116ce8a25738c808a1e70fc6d83c8887",
+    "notes": "Preparazione dal secondo colloquio in poi piu approfondita: tiene conto di com'e andato il round precedente, domande nuove, casi pratici"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.21\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.21/web-1.10.21.zip\",\"checksum\":\"878186cf164e1952b5892857f566aec6113cdc0e3ca34239d03d5acf7cf4ddc0\",\"notes\":\"Nuovo ruolo: segreteria e lavoro d'ufficio\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot.apk\",\"checksum\":\"55a9adac96fad08a290258eea07fe42d5f026a6577eab5ce8c471f75307cae74\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"},\"windows\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot-Setup-1.5.1.exe\",\"checksum\":\"e7afb59901a5fba830a54c2e2c8fd3c8b5924026d7a73cd5073fe7a9ffc8b793\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"}}",
-    "signature": "OgTC8OJfwdnSEj7NKhkhBXqhzyCwg85FbeUN+ppx/e5BdXqSxfY+T28eKaI+0KvJv79/BTjUYcKIFFVHFV5/BA=="
+    "payload": "{\"web\":{\"version\":\"1.10.22\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.22/web-1.10.22.zip\",\"checksum\":\"a923d40a446d8dc6091b29625aba013f116ce8a25738c808a1e70fc6d83c8887\",\"notes\":\"Preparazione dal secondo colloquio in poi piu approfondita: tiene conto di com'e andato il round precedente, domande nuove, casi pratici\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot.apk\",\"checksum\":\"55a9adac96fad08a290258eea07fe42d5f026a6577eab5ce8c471f75307cae74\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"},\"windows\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot-Setup-1.5.1.exe\",\"checksum\":\"e7afb59901a5fba830a54c2e2c8fd3c8b5924026d7a73cd5073fe7a9ffc8b793\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"}}",
+    "signature": "99RXdM7HwqUq9ub9QPJo1vu7HntPFNjRC15+FPzMd5hChChIUrdYRfa9wgAM8cwxoXNBfxqHhUaaJDFuws2TAw=="
   }
 }
