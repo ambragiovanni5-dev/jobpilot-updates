@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.10.22",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.22/web-1.10.22.zip",
-    "checksum": "a923d40a446d8dc6091b29625aba013f116ce8a25738c808a1e70fc6d83c8887",
-    "notes": "Preparazione dal secondo colloquio in poi piu approfondita: tiene conto di com'e andato il round precedente, domande nuove, casi pratici"
+    "version": "1.10.23",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.23/web-1.10.23.zip",
+    "checksum": "b09d2586faae1f7d83e7995e718cc7882443e1f959411fad599efffcc3287827",
+    "notes": "Sincronizzazione: le offerte di una ricerca fatta sull'altro dispositivo si ricollegano alla ricerca quando arriva"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.22\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.22/web-1.10.22.zip\",\"checksum\":\"a923d40a446d8dc6091b29625aba013f116ce8a25738c808a1e70fc6d83c8887\",\"notes\":\"Preparazione dal secondo colloquio in poi piu approfondita: tiene conto di com'e andato il round precedente, domande nuove, casi pratici\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot.apk\",\"checksum\":\"55a9adac96fad08a290258eea07fe42d5f026a6577eab5ce8c471f75307cae74\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"},\"windows\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot-Setup-1.5.1.exe\",\"checksum\":\"e7afb59901a5fba830a54c2e2c8fd3c8b5924026d7a73cd5073fe7a9ffc8b793\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"}}",
-    "signature": "99RXdM7HwqUq9ub9QPJo1vu7HntPFNjRC15+FPzMd5hChChIUrdYRfa9wgAM8cwxoXNBfxqHhUaaJDFuws2TAw=="
+    "payload": "{\"web\":{\"version\":\"1.10.23\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.23/web-1.10.23.zip\",\"checksum\":\"b09d2586faae1f7d83e7995e718cc7882443e1f959411fad599efffcc3287827\",\"notes\":\"Sincronizzazione: le offerte di una ricerca fatta sull'altro dispositivo si ricollegano alla ricerca quando arriva\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot.apk\",\"checksum\":\"55a9adac96fad08a290258eea07fe42d5f026a6577eab5ce8c471f75307cae74\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"},\"windows\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot-Setup-1.5.1.exe\",\"checksum\":\"e7afb59901a5fba830a54c2e2c8fd3c8b5924026d7a73cd5073fe7a9ffc8b793\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"}}",
+    "signature": "tHq8iLl96K/TMHAS/PUnMlHPZI1wug3WwVUIm6neL35SnFwjbdSllq9WFK8WnFyJz2KbkQ7j7khoIaiudpEeAQ=="
   }
 }
