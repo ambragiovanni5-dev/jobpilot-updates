@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.10.23",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.23/web-1.10.23.zip",
-    "checksum": "b09d2586faae1f7d83e7995e718cc7882443e1f959411fad599efffcc3287827",
-    "notes": "Sincronizzazione: le offerte di una ricerca fatta sull'altro dispositivo si ricollegano alla ricerca quando arriva"
+    "version": "1.10.24",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.24/web-1.10.24.zip",
+    "checksum": "f74a72ab2f879aaf7e23ea80665a8b2d842208e3f57e78e7f3f4542ff7e87094",
+    "notes": "Ricerca: registra i tempi di raccolta, lettura annunci e valutazione AI"
   },
   "android": {
     "build": 6,
@@ -19,7 +19,7 @@
     "notes": "Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.23\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.23/web-1.10.23.zip\",\"checksum\":\"b09d2586faae1f7d83e7995e718cc7882443e1f959411fad599efffcc3287827\",\"notes\":\"Sincronizzazione: le offerte di una ricerca fatta sull'altro dispositivo si ricollegano alla ricerca quando arriva\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot.apk\",\"checksum\":\"55a9adac96fad08a290258eea07fe42d5f026a6577eab5ce8c471f75307cae74\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"},\"windows\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot-Setup-1.5.1.exe\",\"checksum\":\"e7afb59901a5fba830a54c2e2c8fd3c8b5924026d7a73cd5073fe7a9ffc8b793\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"}}",
-    "signature": "tHq8iLl96K/TMHAS/PUnMlHPZI1wug3WwVUIm6neL35SnFwjbdSllq9WFK8WnFyJz2KbkQ7j7khoIaiudpEeAQ=="
+    "payload": "{\"web\":{\"version\":\"1.10.24\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.24/web-1.10.24.zip\",\"checksum\":\"f74a72ab2f879aaf7e23ea80665a8b2d842208e3f57e78e7f3f4542ff7e87094\",\"notes\":\"Ricerca: registra i tempi di raccolta, lettura annunci e valutazione AI\"},\"android\":{\"build\":6,\"version\":\"1.4.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot.apk\",\"checksum\":\"55a9adac96fad08a290258eea07fe42d5f026a6577eab5ce8c471f75307cae74\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"},\"windows\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot-Setup-1.5.1.exe\",\"checksum\":\"e7afb59901a5fba830a54c2e2c8fd3c8b5924026d7a73cd5073fe7a9ffc8b793\",\"notes\":\"Sicurezza: motore del browser aggiornato, siti esterni senza permessi sul PC, documenti senza script\"}}",
+    "signature": "4F+gyUmoMgYAFJHerOUFS32q+CQI14wmQI+z4IBO/gjK8i73eOXlW3RkH8goLEbsez8DMKJxSfmPy8hdw/H5Aw=="
   }
 }
