@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.10.26",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.26/web-1.10.26.zip",
-    "checksum": "e3d17da592cb94a1302ab499bd552dbb7336eb2c7827af81969c4a3b1af6b694",
-    "notes": "Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento"
+    "version": "1.10.27",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.27/web-1.10.27.zip",
+    "checksum": "a10b0841c60c7c63bd252636c4f8d962e611f0ae86665714ad9296e6bbb71c4b",
+    "notes": "Ricerca: diario dei passaggi e del secondo piano, per capire dove rallenta sul telefono"
   },
   "android": {
     "build": 8,
@@ -19,7 +19,7 @@
     "notes": "Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.26\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.26/web-1.10.26.zip\",\"checksum\":\"e3d17da592cb94a1302ab499bd552dbb7336eb2c7827af81969c4a3b1af6b694\",\"notes\":\"Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento\"},\"android\":{\"build\":8,\"version\":\"1.4.3\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot.apk\",\"checksum\":\"6ff3ad29efee6a7b9e4fb88ac4cbbbcc0e1c30a41b5e6c8cf08e0b1a595b4ee2\",\"notes\":\"Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento\"},\"windows\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot-Setup-1.5.1.exe\",\"checksum\":\"9b277b05e146d8b97f42dc878971b996828f739846988c1eddd52a84b989d023\",\"notes\":\"Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento\"}}",
-    "signature": "NjxvC2tZpjIca3Hhw72ksJCt9M4QKdC+IhQc0zozygf+bp6TWtSVHwvDC4UqMmk0Jb2kODkDYKUAHSUcItjEBg=="
+    "payload": "{\"web\":{\"version\":\"1.10.27\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.27/web-1.10.27.zip\",\"checksum\":\"a10b0841c60c7c63bd252636c4f8d962e611f0ae86665714ad9296e6bbb71c4b\",\"notes\":\"Ricerca: diario dei passaggi e del secondo piano, per capire dove rallenta sul telefono\"},\"android\":{\"build\":8,\"version\":\"1.4.3\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot.apk\",\"checksum\":\"6ff3ad29efee6a7b9e4fb88ac4cbbbcc0e1c30a41b5e6c8cf08e0b1a595b4ee2\",\"notes\":\"Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento\"},\"windows\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot-Setup-1.5.1.exe\",\"checksum\":\"9b277b05e146d8b97f42dc878971b996828f739846988c1eddd52a84b989d023\",\"notes\":\"Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento\"}}",
+    "signature": "wmP7D1ag+goqmfZ6oC4do6J+Mwr5iVG/5kynMqW8Pvw1WriWgWhrQa+8lKELzApmMfG6bNl0yLU8TEf493qYDw=="
   }
 }
