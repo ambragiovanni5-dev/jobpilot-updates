@@ -1,25 +1,25 @@
 {
   "web": {
-    "version": "1.10.25",
-    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.25/web-1.10.25.zip",
-    "checksum": "9913e1fd3caa883e78e29b9f071a05d110c75b387b245e4c1ae54f2f48cbb000",
-    "notes": "La ricerca continua anche fuori dall'app o a schermo spento, con una notifica fissa"
+    "version": "1.10.26",
+    "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.26/web-1.10.26.zip",
+    "checksum": "e3d17da592cb94a1302ab499bd552dbb7336eb2c7827af81969c4a3b1af6b694",
+    "notes": "Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento"
   },
   "android": {
-    "build": 7,
-    "version": "1.4.2",
+    "build": 8,
+    "version": "1.4.3",
     "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot.apk",
-    "checksum": "eb262399bf73b8f7a4033ba50e51373b886aa7340eb6867885506eb9411ac228",
-    "notes": "La ricerca continua anche fuori dall'app o a schermo spento, con una notifica fissa"
+    "checksum": "6ff3ad29efee6a7b9e4fb88ac4cbbbcc0e1c30a41b5e6c8cf08e0b1a595b4ee2",
+    "notes": "Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento"
   },
   "windows": {
     "version": "1.5.1",
     "url": "https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot-Setup-1.5.1.exe",
-    "checksum": "06ba00a259987888b758344715206c7d778e6a6466d114b1d0a1099c57e5fa39",
-    "notes": "La ricerca continua anche fuori dall'app o a schermo spento, con una notifica fissa"
+    "checksum": "9b277b05e146d8b97f42dc878971b996828f739846988c1eddd52a84b989d023",
+    "notes": "Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento"
   },
   "signed": {
-    "payload": "{\"web\":{\"version\":\"1.10.25\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.25/web-1.10.25.zip\",\"checksum\":\"9913e1fd3caa883e78e29b9f071a05d110c75b387b245e4c1ae54f2f48cbb000\",\"notes\":\"La ricerca continua anche fuori dall'app o a schermo spento, con una notifica fissa\"},\"android\":{\"build\":7,\"version\":\"1.4.2\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot.apk\",\"checksum\":\"eb262399bf73b8f7a4033ba50e51373b886aa7340eb6867885506eb9411ac228\",\"notes\":\"La ricerca continua anche fuori dall'app o a schermo spento, con una notifica fissa\"},\"windows\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot-Setup-1.5.1.exe\",\"checksum\":\"06ba00a259987888b758344715206c7d778e6a6466d114b1d0a1099c57e5fa39\",\"notes\":\"La ricerca continua anche fuori dall'app o a schermo spento, con una notifica fissa\"}}",
-    "signature": "1htdf6/cFlVhLTi2lkgkGJ1Zyq9xlzTn8BqNQEBBaq/T9OZmI41vq9yGcPRK4/q6ELKnjrY0A/9roNVTCyYABg=="
+    "payload": "{\"web\":{\"version\":\"1.10.26\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/web-1.10.26/web-1.10.26.zip\",\"checksum\":\"e3d17da592cb94a1302ab499bd552dbb7336eb2c7827af81969c4a3b1af6b694\",\"notes\":\"Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento\"},\"android\":{\"build\":8,\"version\":\"1.4.3\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot.apk\",\"checksum\":\"6ff3ad29efee6a7b9e4fb88ac4cbbbcc0e1c30a41b5e6c8cf08e0b1a595b4ee2\",\"notes\":\"Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento\"},\"windows\":{\"version\":\"1.5.1\",\"url\":\"https://github.com/ambragiovanni5-dev/jobpilot-updates/releases/download/app-1.5.1/JobPilot-Setup-1.5.1.exe\",\"checksum\":\"9b277b05e146d8b97f42dc878971b996828f739846988c1eddd52a84b989d023\",\"notes\":\"Ricerca in background: la pagina dell'app resta attiva anche fuori dall'app o a schermo spento\"}}",
+    "signature": "NjxvC2tZpjIca3Hhw72ksJCt9M4QKdC+IhQc0zozygf+bp6TWtSVHwvDC4UqMmk0Jb2kODkDYKUAHSUcItjEBg=="
   }
 }
